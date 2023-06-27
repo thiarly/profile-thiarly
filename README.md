@@ -26,9 +26,9 @@ Você pode me contatar por meio dos seguintes canais:
 
 - [GitHub](https://github.com/thiarly)
 - [LinkedIn](https://www.linkedin.com/in/thiarly-cavalcante)
-- [Instagram](https://www.instagram.com/seu_usuario)
-- [Facebook](https://www.facebook.com/seu_usuario)
-- [WhatsApp](https://wa.me/seu_numero)
+- [Instagram](https://www.instagram.com/thiarly_tri/)
+- [Facebook](https://www.facebook.com/thiarly.cavalcante/)
+- [WhatsApp](https://wa.me/11971469122)
 
 ## Construção da Página
 

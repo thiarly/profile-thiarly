@@ -25,7 +25,7 @@ Fora do mundo profissional, sou um apaixonado por esportes. Sou ativo no triatlo
 Você pode me contatar por meio dos seguintes canais:
 
 - [GitHub](https://github.com/thiarly)
-- [LinkedIn](https://www.linkedin.com/in/thiarly-cavalcante)
+- [LinkedIn](https://www.linkedin.com/in/thiarly-cavalcante-b0aa6056/)
 - [Instagram](https://www.instagram.com/thiarly_tri/)
 - [Facebook](https://www.facebook.com/thiarly.cavalcante/)
 - [WhatsApp](https://wa.me/11971469122)
